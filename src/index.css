@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    background: pink;
+    height: 100vh;
+    
+}
+.quoteContainer{
+    
+    border: 1px solid green;
+    width: 600px;
+    height: 280px;
+    top: 3rem;
+    text-align: center;
+    margin: 0 auto;
+    padding: 4rem;
+    background: white;
+}
+.quote{
+    font-size: 17px;
+    padding-bottom: 1rem;
+}
+.author{
+    padding-bottom: 1rem;
+    padding-right: 3.2rem;
+    text-align: right;
+}
+.btn{
+    border: none;
+    padding: .5rem .7rem;
+    outline: none;
+    border-radius: 5px;
+}
